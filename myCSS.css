@@ -34,6 +34,10 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
+	text-align: left;
+}
+.image {
+	text-align: center;
 }
 .footer {
 	background: #FAEFDD;
